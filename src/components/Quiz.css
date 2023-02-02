@@ -1,0 +1,16 @@
+.borderP{
+    padding: 20px;
+    padding-bottom: 0px;
+}
+.quiz{
+    border: 2px solid black;
+    text-align: left;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.count{
+    text-align: right;
+    padding: 0px;
+    margin: 0;
+}

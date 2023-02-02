@@ -1,0 +1,15 @@
+.header{
+    background-color: aqua;
+    display: flex;
+    align-content: space-between;
+    padding: 20px;
+    font-size: 20px;
+    font-family: 'Noto Sans';
+}
+.title{
+    align-content: flex-start;
+}
+.time{
+    padding-left: 75%;
+    align-content: flex-end;
+}

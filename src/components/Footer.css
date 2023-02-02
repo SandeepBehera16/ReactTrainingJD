@@ -1,0 +1,13 @@
+.footer{
+    padding: 20px;
+    padding-right: 40px;
+    align-content: flex-end;
+    text-align: right;
+}
+.btn{
+    border-radius: 10px;
+    background-color: green;
+    font-size: 20px;
+    font-family: 'Noto Sans';
+    
+}
